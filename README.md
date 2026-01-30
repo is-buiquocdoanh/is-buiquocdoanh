@@ -2,7 +2,7 @@
 
 ## Robotics Engineer | ROS 2 | Autonomous Systems
 
-My name is Doanh, I'm from Vietnam, I graduated from Hanoi University of Technology, and I'm currently an engineer. 
+My name is Doanh, I'm from Vietnam, I graduated from Hanoi University of Technology, and I'm currently an 
 Robotics Engineer focusing on the development of **autonomous and intelligent robots** based on **ROS 2, computer vision, and embedded systems**.  
 My interests include **SLAM, Navigation, Perception**, and end-to-end integration of hardware and software for real-world robotic applications.  
 I am highly motivated to contribute to practical robotic products, especially **Make in Vietnam** robotics solutions.
